@@ -1,0 +1,118 @@
+
+
+.nav {
+	width:140px; /* Parent Width */
+	line-height:26px; /* Button Heights */
+}
+.nav li ul {
+	margin-left:140px; /* Same as Parent Width */
+	margin-top:-27px; /* Same as Button Heights plus any vertical borders or margins */
+}
+.nav a {
+	color:#333; /* Parent Text Color */
+	background:#CCC ; /* Parent Background Hover Color */
+	padding:0 4px; /* DO NOT USE TOP or BOTTOM PADDING */
+	border-bottom:1px solid #000; /* if a bottom border is used, compensate for this in the ".nav li ul margin-top value" */
+	text-decoration:none;
+}
+.nav a:hover {
+	color:#FFF; /* Parent Text Hover Color */
+	background:#333; /* Parent Background Hover Color */
+}
+.nav ul ul {
+	width:140px; /* Child Width */
+}
+
+
+
+/* 1st Children */
+.nav ul ul a {
+	color:#FFF; /* Child Text Color */
+	background:#090; /* Child Background Color */
+}
+.nav ul ul a:hover {
+	color:#FFF; /* Child Text Hover Color */
+	background:#060; /* Child Background Hover Color */
+}
+/* 2nd Children */
+.nav ul ul ul a {
+	color:#FFF; /* Child Text Color */
+	background:#900; /* Child Background Color */
+}
+.nav ul ul ul a:hover {
+	color:#FFF; /* Child Text Hover Color */
+	background:#600; /* Child Background Hover Color */
+}
+/* 3rd Children */
+.nav ul ul ul ul a {
+	color:#FFF; /* Child Text Color */
+	background:#009; /* Child Background Color */
+}
+.nav ul ul ul ul a:hover {
+	color:#FFF; /* Child Text Hover Color */
+	background:#006; /* Child Background Hover Color */
+}
+/* 4th Children */
+.nav ul ul ul ul ul a {
+	color:#FFF; /* Child Text Color */
+	background:#990; /* Child Background Color */
+}
+.nav ul ul ul ul ul a:hover {
+	color:#FFF; /* Child Text Hover Color */
+	background:#660; /* Child Background Hover Color */
+}
+/* 5th Children */
+.nav ul ul ul ul ul ul a {
+	color:#FFF; /* Child Text Color */
+	background:#099; /* Child Background Color */
+}
+.nav ul ul ul ul ul ul a:hover {
+	color:#FFF; /* Child Text Hover Color */
+	background:#066; /* Child Background Hover Color */
+}
+/* 6th Children */
+.nav ul ul ul ul ul ul ul a {
+	color:#FFF; /* Child Text Color */
+	background:#909; /* Child Background Color */
+}
+.nav ul ul ul ul ul ul ul a:hover {
+	color:#FFF; /* Child Text Hover Color */
+	background:#606; /* Child Background Hover Color */
+}
+/* 7th Children */
+.nav ul ul ul ul ul ul ul ul a {
+	color:#FFF; /* Child Text Color */
+	background:#FF6600; /* Child Background Color */
+}
+.nav ul ul ul ul ul ul ul ul a:hover {
+	color:#FFF; /* Child Text Hover Color */
+	background:#FF9933; /* Child Background Hover Color */
+}
+/* 8th Children */
+.nav ul ul ul ul ul ul ul ul ul a {
+	color:#FFF; /* Child Text Color */
+	background:#900; /* Child Background Color */
+}
+.nav ul ul ul ul ul ul ul ul ul a:hover {
+	color:#FFF; /* Child Text Hover Color */
+	background:#600; /* Child Background Hover Color */
+}
+
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+
+.nav a {
+	display:block;
+}
+.nav ul, .nav li {
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+/* 1st children */
+.nav li ul {
+	position:absolute;
+	visibility:hidden;
+}
+.nav li:hover>ul {
+	visibility:visible;
+}

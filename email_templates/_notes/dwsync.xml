@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="admin_welcome_email.php" server="devmacserver2.co.uk/iploy/" local="129570101480081976" remote="129579818400000000" />
+<file name="superuser_welcome_email.php" server="devmacserver2.co.uk/iploy/" local="129570086488984534" remote="129579818400000000" />
+<file name="password_reset_email.php" server="devmacserver2.co.uk/iploy/" local="129570086313104474" remote="129579818400000000" />
+<file name="_confirm_email.php" server="devmacserver2.co.uk/iploy/" local="129576269617182350" remote="129579818400000000" />
+<file name="_welcome_email.php" server="devmacserver2.co.uk/iploy/" local="129576271343641098" remote="129579818400000000" />
+<file name="admin_welcome_email.php" server="devmacserver2.co.uk/iploydev/" local="129570101480081976" remote="129629990400000000" />
+<file name="password_reset_email.php" server="devmacserver2.co.uk/iploydev/" local="129570086313104474" remote="129629990400000000" />
+<file name="superuser_welcome_email.php" server="devmacserver2.co.uk/iploydev/" local="129570086488984534" remote="129629990400000000" />
+<file name="_confirm_email.php" server="devmacserver2.co.uk/iploydev/" local="129576269617182350" remote="129629990400000000" />
+<file name="_welcome_email.php" server="devmacserver2.co.uk/iploydev/" local="129576271343641098" remote="129629990400000000" />
+</dwsync>

@@ -1,0 +1,56 @@
+
+/* NAV */
+
+.navigation {
+	overflow:auto;
+	display:inline-block;
+}
+.navigation ul, .navigation li {
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+.navigation li {
+	float:left;
+}
+
+
+
+
+.header_right, .header_right .navigation a {
+	color:#FFF;
+}
+.header_right .navigation a {
+	display:block;
+	text-align:center;
+	text-decoration:none;
+}
+.header_right .navigation a:hover {
+	text-decoration:underline;
+}
+
+.header_right .navigation {
+	float:right;
+	line-height:2em;
+}
+
+
+
+.header_right .topnav {
+	margin-top:6px;
+}
+.header_right .topnav a {
+	padding:0 10px;
+}
+
+
+.header_right .nav {
+	margin-top:16px;
+	font-size:16px;
+	font-weight:normal;
+	clear:right;
+}
+.header_right .nav a {
+	padding:0 10px;
+	margin-left:6px;
+}
