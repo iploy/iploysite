@@ -1,0 +1,52 @@
+
+/* Styles for Ajax Auto Complete */
+.aacResults {
+	background:#F4F4F4;
+	border-color:#999;
+	border-width:1px;
+	border-style:solid;
+	min-width:180px;
+	max-height:180px;
+	-webkit-box-shadow: 1px 1px 4px rgba(75, 75, 75, 0.64);
+	-moz-box-shadow:    1px 1px 4px rgba(75, 75, 75, 0.64);
+	box-shadow:         1px 1px 4px rgba(75, 75, 75, 0.64);
+}
+.aacResults ul {
+	font-size:12px;
+}
+.aacResults ul li {
+	line-height:22px;
+	border-bottom:1px solid #CCC;
+	cursor:pointer;
+	padding:0 4px;
+	text-decoration:none;
+}
+.aacResults ul li:hover, .aacResults .keyHighlight {
+	background:#FFF;
+}
+.aacResults .accnoresults, .aacResults .accnoresults:hover {
+	cursor:default !important;
+	background:#DDD !important;
+}
+
+
+/* DO NOT EDIT BELOW THIS LINE */
+.aacResults {
+	overflow:auto;
+	z-index:9999;
+}
+.aacResults ul, .aacResults li {
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+.aacResults ul li {
+	display:block;
+	white-space:nowrap;
+	max-width:360px;
+	overflow:hidden;
+	text-overflow: ellipsis ;
+}
+.aacResults ul li:last-child {
+	border-bottom:none;
+}

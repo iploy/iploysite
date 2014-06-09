@@ -1,0 +1,298 @@
+
+
+
+.datepicker_carmemo {
+	position: absolute;
+	font-size: 11px;
+	width: 189px;
+	height: 200px;
+	background: #fff;
+	line-height: normal;
+	z-index: 9999;
+}
+
+.datepicker_carmemo.column_2 {
+	width: 393px;
+}
+
+.datepicker_carmemo.column_3 {
+	width: 592px;
+}
+
+.datepicker_carmemo.column_4 {
+	width: 791px;
+}
+
+.datepicker_carmemo.column_5 {
+	width: 990px;
+}
+
+
+
+/* header
+********************************************************/
+.datepicker_carmemo .header {
+	position: relative;
+	height: 21px;
+	padding-top: 4px;
+	overflow: hidden;
+}
+
+.datepicker_carmemo .header .title {
+	text-align: center;
+	padding-top: 1px;
+	position: absolute;
+	color: #fff;
+	font-weight: bold;
+	width: 99999px;
+}
+
+.datepicker_carmemo .header .titleText {
+}
+.datepicker_carmemo .header .next,
+.datepicker_carmemo .header .previous,
+.datepicker_carmemo .header .closeButton {
+	position: absolute;
+	width: 15px;
+	height: 15px;
+	background: #fff;
+	text-align: center;
+	color: #666;
+	top: 5px;
+	cursor: pointer;
+}
+.datepicker_carmemo .header .previous {
+	left: 5px;
+}
+.datepicker_carmemo .header .next {
+	right: 28px;
+}
+.datepicker_carmemo .header .closeButton {
+	right: 5px;
+}
+
+/* body
+********************************************************/
+.datepicker_carmemo .body {
+	position: relative;
+	top: 0px;
+	left: 0px;
+	height: 193px;
+	overflow: hidden;
+}
+
+/* Columns */
+
+.datepicker_carmemo .body .column {
+	float: left;
+	width: 194px;
+	min-height: 193px;
+	margin-left: 5px;
+}
+
+.datepicker_carmemo .body .column.column_1 {
+	margin-left: 0;
+}
+
+.datepicker_carmemo .titleText .column {
+	float: left;
+	width: 194px;
+	margin-left: 5px;
+}
+
+.datepicker_carmemo .titleText .column.column_1 {
+	margin-left: 0;
+}
+
+/* Footer */
+
+.datepicker_carmemo.footer {
+	height: 280px;
+}
+
+.datepicker_carmemo .footer {
+	margin-top: 3px;
+	padding: 15px 5px;
+	height: 26px;
+}
+
+/* time
+********************************************************/
+.datepicker_carmemo .time {
+	width: 189px;
+	height: 175px;
+	background: #F4F4F4;
+}
+
+.datepicker_carmemo .time .hour,
+.datepicker_carmemo .time .separator,
+.datepicker_carmemo .time .minutes {
+	border: 1px solid #ccc;
+	background: #fff;
+	width: 50px;
+	font-size: 32px;
+	position: absolute;
+	top: 50px;
+	text-align: center;
+	padding: 2px;
+}
+
+.datepicker_carmemo .time .hour {
+	left: 30px;
+}
+.datepicker_carmemo .time .separator {
+	background: transparent;
+	border: 0px;
+	width: 10px;
+	left: 91px;
+}
+
+.datepicker_carmemo .time .minutes {
+	left: 110px;
+}
+.datepicker_carmemo .time .ok {
+	position: absolute;
+	top: 105px;
+	width: 136px;
+	left: 30px;
+	font-size: 20px;
+}
+
+/* days-grid
+********************************************************/
+.datepicker_carmemo .days .day {
+	float: left;
+	background: #DDD;
+	cursor: pointer;
+	text-align: center;
+	padding-top: 4px;
+	width: 27px;
+	overflow: hidden;
+	height: 21px;
+}
+
+.datepicker_carmemo .days .day0 {
+	margin-right: 0;
+}
+
+.datepicker_carmemo .days .week5 .day {
+	margin-bottom: 0;
+}
+
+/* days-colors
+********************************************************/
+.datepicker_carmemo .days .title {
+	background: #777;
+	font-weight: bold;
+	color: #fff;
+	cursor: default;
+	padding-top: 6px;
+	height: 19px;
+	font-size:10px;
+}
+
+.datepicker_carmemo .days .otherMonth {
+	background: #F3F3F3;
+	color: #999;
+}
+
+/* months
+********************************************************/
+.datepicker_carmemo .months .month {
+	float: left;
+	background: #eee;
+	cursor: pointer;
+	text-align: center;
+	overflow: hidden;
+	width: 62px;
+	height: 28px;
+	padding-top: 15px;
+}
+
+.datepicker_carmemo .months .month3,
+.datepicker_carmemo .months .month6,
+.datepicker_carmemo .months .month9,
+.datepicker_carmemo .months .month12 {
+	margin-right: 0;
+	width: 65px;
+}
+
+.datepicker_carmemo .months .month10,
+.datepicker_carmemo .months .month11,
+.datepicker_carmemo .months .month12 {
+	margin-bottom: 0;
+	height: 31px;
+}
+
+/* years
+********************************************************/
+.datepicker_carmemo .years .year {
+	float: left;
+	background: #eee;
+	cursor: pointer;
+	text-align: center;
+	padding-top: 11px;
+	width: 47px;
+	overflow: hidden;
+	height: 24px;
+}
+
+.datepicker_carmemo .years .year3,
+.datepicker_carmemo .years .year7,
+.datepicker_carmemo .years .year11,
+.datepicker_carmemo .years .year15,
+.datepicker_carmemo .years .year19 {
+	margin-right: 0;
+	width: 48px;
+}
+
+.datepicker_carmemo .years .year16,
+.datepicker_carmemo .years .year17,
+.datepicker_carmemo .years .year18,
+.datepicker_carmemo .years .year19 {
+}
+
+/* global
+********************************************************/
+.datepicker_carmemo .selected {
+	background: #8C929F !important;
+	color: #fff !important;
+}
+
+.datepicker_carmemo .days .otherMonth.selected {
+	background: #bbbfc8 !important;
+}
+
+.datepicker_carmemo .unavailable,
+.datepicker_carmemo .body .days .week .day.unavailable:hover {
+	background: #edd !important;
+	color: #b88 !important;
+	cursor: default !important;
+}
+
+.datepicker_carmemo .days .week .day:hover,
+.datepicker_carmemo .months .month:hover,
+.datepicker_carmemo .years .year:hover {
+	background: #5D6E95 !important;
+	color: #fff !important;
+}
+
+.datepicker_carmemo .days.weeknumbers .day {
+	width: 22px;
+}
+
+.datepicker_carmemo .days.weeknumbers .day.weeknumber,
+.datepicker_carmemo .days.weeknumbers .day.weeknumber:hover {
+	color: #AAA !important;
+	width: 16px !important;
+	background: #EEE !important;
+}
+
+.datepicker_carmemo table {
+	border-spacing: 0;
+}
+
+.datepicker_carmemo th,
+.datepicker_carmemo td {
+	padding: 0;
+}

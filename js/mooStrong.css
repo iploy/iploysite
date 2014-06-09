@@ -1,0 +1,20 @@
+
+#str_bar {
+	border-bottom:1px solid #AAA;
+	width:312px;
+	margin:0;
+	background:#AAA;
+	margin-bottom:4px;
+}
+#str_fill {
+	position:relative;
+	width:2%;
+	background-color:#900;
+	height:5px;
+}
+#str_label {
+	font-size:11px;
+}
+#str_txt {
+	color:#900;
+}

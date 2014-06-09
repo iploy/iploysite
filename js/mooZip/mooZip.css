@@ -1,0 +1,38 @@
+.mooZip {
+}
+.mooZip .zip {
+	overflow:hidden;
+	border:2px solid #888;
+	border-radius:6px;
+	margin-bottom:6px;
+}
+
+
+
+.mooZip h4 {
+	background:#AAA;
+	margin:0;
+	line-height:28px;
+	padding:0 6px;
+	color:#FFF;
+	font-size:12px;
+	font-weight:bold;
+}
+.mooZip .off h4 {
+	background:#888;
+}
+.mooZip h4:hover {
+	background:#555;
+	cursor:pointer;
+}
+
+.mooZip h4 .date {
+	float:right;
+}
+.mooZip h4 .ico {
+	margin:0 6px -4px 0 ;
+}
+
+.mooZip .content {
+	padding:0 12px;
+}

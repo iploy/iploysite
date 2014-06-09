@@ -1,0 +1,13 @@
+
+.mooZipList_toggle {
+	line-height:26px;
+	border-width:1px 0;
+	border-color:#CCCCCC;
+	border-style:solid;
+	margin:6px 0;
+	padding:0 5px;
+	cursor:pointer;
+}
+.mooZipList_toggle:hover {
+	color:#C00;
+}

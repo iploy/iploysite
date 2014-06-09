@@ -1,0 +1,53 @@
+
+.mooView {
+	color:#AAA;
+	border-width:0 0 0;
+	border-style:solid;
+	overflow:hidden; /* This is the only Required CSS value, and it's only required for cleanliness */
+	/* NEVER, EVER use padding on this element!!! */
+}
+.mooViewNav .selected { /* individual image nav links styling */
+	color:#DF0514;
+}
+/* Quicknav left & right */
+.mooViewQuickNav {
+	height:22px;
+	width:40px;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+.mooViewQuickNav:hover {
+}
+/* These classes alow you to put a background image on the hover links */
+.mooViewQuickNavLeft {
+	-moz-border-radius:0 6px 6px 0;
+	-khtml-border-radius:0 6px 6px 0;
+	-webkit-border-radius:0 6px 6px 0;
+	border-radius:0 6px 6px 0;
+	background-image:url(../mooview/arrow_left.png);
+}
+.mooViewQuickNavRight {
+	-moz-border-radius:6px 0 0 6px;
+	-khtml-border-radius:6px 0 0 6px;
+	-webkit-border-radius:6px 0 0 6px;
+	border-radius:6px 0 0 6px;
+	background-image:url(../mooview/arrow_right.png);
+}
+
+.mooViewNav { /* image nav area styling */
+	font-size:26px;
+	line-height:26px;
+	text-align:right;
+	padding-right:2px;
+}
+.mooViewNav span { /* individual image nav links styling */
+	padding:1px 0 0 4px ;
+	cursor:pointer;
+}
+.mooViewTitle {
+	display:none;
+	font-size:12px;
+	font-weight:bold;
+	text-align:left;
+	padding-left:8px;
+}
