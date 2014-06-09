@@ -1,0 +1,35 @@
+
+- Add email to grad profile
+- Get rid of query on admin user's list
+- link to profiles on emails
+
+- Edit reipients on mass mail
+
+
+
+
+
+
+
+
+
+
+
+Expiry on profile unlocks <:edit-->> shortlist view + Profile View + purchase history
+
+
+
+Graduate Search -> Inner Join on access table
+Graduate Search -> Inner Join on shortlists
+
+
+Update data on seach listing
+
+
+Payment - 
+Stop test mode
+Make HTTPS
+
+
+MESSAGES
+Alternate document for printing on messages

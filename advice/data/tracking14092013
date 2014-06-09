@@ -1,0 +1,14 @@
+24206;new_session;0;72.175.122.120;;;Java/1.7.0_21;1379135005;
+24207;new_session;0;72.175.122.120;action=artikel&cat=1&id=2&artlang=en;;Java/1.7.0_21;1379135007;
+24208;article_view;2;72.175.122.120;action=artikel&cat=1&id=2&artlang=en;;Java/1.7.0_21;1379135007;
+24209;new_session;0;85.114.129.95;action=artikel&cat=3&id=6&artlang=en;http://www.iploy.co.uk/;Mozilla/5.0 (Macintosh, Intel Mac OS X 10_7_5) AppleWebKit/536.30.1 (KHTML, like Gecko) Version/6.0.5 Safari/536.30.1;1379135429;
+24210;article_view;6;85.114.129.95;action=artikel&cat=3&id=6&artlang=en;http://www.iploy.co.uk/;Mozilla/5.0 (Macintosh, Intel Mac OS X 10_7_5) AppleWebKit/536.30.1 (KHTML, like Gecko) Version/6.0.5 Safari/536.30.1;1379135429;
+24209;article_view;9;85.114.129.95;sid=24209&lang=en&action=artikel&cat=3&id=9&artlang=en;http://www.iploy.co.uk/;Mozilla/5.0 (Macintosh, Intel Mac OS X 10_7_5) AppleWebKit/536.30.1 (KHTML, like Gecko) Version/6.0.5 Safari/536.30.1;1379135430;
+24211;new_session;0;193.60.130.67;action=artikel&cat=3&id=6&artlang=en;;Mozilla/5.0 (compatible, WebCorp/5.0, +http://www.webcorp.org.uk);1379169418;
+24212;article_view;6;193.60.130.67;action=artikel&cat=3&id=6&artlang=en;;Mozilla/5.0 (compatible, WebCorp/5.0, +http://www.webcorp.org.uk);1379169418;
+24213;new_session;0;80.96.224.52;;;Java/1.7.0_40;1379181302;
+24214;new_session;0;80.96.224.52;action=artikel&cat=1&id=2&artlang=en;;Java/1.7.0_40;1379181307;
+24215;article_view;2;80.96.224.52;action=artikel&cat=1&id=2&artlang=en;;Java/1.7.0_40;1379181307;
+24216;new_session;0;188.143.232.70;action=artikel&cat=3&id=6&artlang=en;http://www.iploy.co.uk/;Mozilla/5.0 (Macintosh, Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36;1379191826;
+24217;article_view;6;188.143.232.70;action=artikel&cat=3&id=6&artlang=en;http://www.iploy.co.uk/;Mozilla/5.0 (Macintosh, Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36;1379191826;
+24216;article_view;9;188.143.232.70;sid=24216&lang=en&action=artikel&cat=3&id=9&artlang=en;http://www.iploy.co.uk/;Mozilla/5.0 (Macintosh, Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36;1379191826;

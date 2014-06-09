@@ -1,0 +1,14 @@
+23771;new_session;0;137.175.11.1;action=artikel&cat=3&id=6&artlang=en;http://www.iploy.co.uk/advice/index.php?action=artikel&cat=3&id=6&artlang=en;Mozilla/5.0 (Windows NT 6.1, rv:17.0) Gecko/17.0 Firefox/17.0;1377912154;
+23772;article_view;6;137.175.11.1;action=artikel&cat=3&id=6&artlang=en;http://www.iploy.co.uk/advice/index.php?action=artikel&cat=3&id=6&artlang=en;Mozilla/5.0 (Windows NT 6.1, rv:17.0) Gecko/17.0 Firefox/17.0;1377912154;
+23771;registration;0;137.175.11.1;sid=23771&lang=en&action=register;http://www.iploy.co.uk/advice/?sid=23771&lang=en&action=register;Mozilla/5.0 (Windows NT 6.1, rv:17.0) Gecko/17.0 Firefox/17.0;1377912156;
+23773;new_session;0;110.82.173.136;option=com_registration&task=register;http://www.iploy.co.uk/advice/index.php?option=com_registration&task=register;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1377949483;
+23774;old_session;23773;27.153.191.50;;http://www.iploy.co.uk/advice/;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1377949486;
+23775;old_session;23773;27.153.191.50;action=register;http://www.iploy.co.uk/advice/;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1377949488;
+23773;registration;0;27.153.191.50;action=register;http://www.iploy.co.uk/advice/;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1377949488;
+23776;old_session;23775;110.82.173.136;showCaptcha=True&instanceNo=0;http://www.iploy.co.uk/advice/?action=register;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1377949501;
+23777;new_session;0;207.189.121.45;action=artikel&cat=4&id=11&artlang=en;http://www.iploy.co.uk;Mozilla/5.0 (Windows, U, Windows NT 5.1, en-US, rv:1.9.2.8) Gecko/20100721 Firefox/3.6.8;1377973077;
+23778;article_view;11;207.189.121.45;action=artikel&cat=4&id=11&artlang=en;http://www.iploy.co.uk;Mozilla/5.0 (Windows, U, Windows NT 5.1, en-US, rv:1.9.2.8) Gecko/20100721 Firefox/3.6.8;1377973077;
+23779;new_session;0;123.82.162.20;option=com_registration&task=register;http://www.iploy.co.uk/advice/index.php?option=com_registration&task=register;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1377985834;
+23780;old_session;23779;123.82.163.229;action=register;http://www.iploy.co.uk/advice/;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1377985837;
+23779;registration;0;123.82.163.229;action=register;http://www.iploy.co.uk/advice/;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1377985837;
+23781;old_session;23780;123.82.162.20;showCaptcha=True&instanceNo=0;http://www.iploy.co.uk/advice/?action=register;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1377985839;

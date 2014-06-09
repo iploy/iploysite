@@ -1,0 +1,13 @@
+23533;new_session;0;110.82.172.50;option=com_registration&task=register;http://www.iploy.co.uk/advice/index.php?option=com_registration&task=register;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1377561902;
+23533;registration;0;110.82.172.50;action=register;http://www.iploy.co.uk/advice/;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1377561912;
+23534;new_session;0;110.82.172.50;option=com_registration&task=register;http://www.iploy.co.uk/advice/index.php?option=com_registration&task=register;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1377571123;
+23534;registration;0;110.82.172.50;action=register;http://www.iploy.co.uk/advice/;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1377571127;
+23535;new_session;0;123.82.162.15;option=com_registration&task=register;http://www.iploy.co.uk/advice/index.php?option=com_registration&task=register;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1377598449;
+23536;old_session;23535;110.82.172.50;;http://www.iploy.co.uk/advice/;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1377598452;
+23537;old_session;23535;110.82.172.50;action=register;http://www.iploy.co.uk/advice/;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1377598462;
+23535;registration;0;110.82.172.50;action=register;http://www.iploy.co.uk/advice/;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1377598462;
+23538;old_session;23537;123.82.162.251;option=com_comprofiler;http://www.iploy.co.uk/advice/?action=register;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1377598466;
+23539;new_session;0;210.212.160.133;action=artikel&cat=3&id=6&artlang=en;https://www.google.co.in/;Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.52 Safari/537.36;1377603578;
+23540;article_view;6;210.212.160.133;action=artikel&cat=3&id=6&artlang=en;https://www.google.co.in/;Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.52 Safari/537.36;1377603578;
+23541;new_session;0;129.107.50.97;action=artikel&cat=4&id=11&artlang=en;https://www.google.com/;Mozilla/5.0 (Windows NT 6.1, WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.57 Safari/537.36;1377630688;
+23542;article_view;11;129.107.50.97;action=artikel&cat=4&id=11&artlang=en;https://www.google.com/;Mozilla/5.0 (Windows NT 6.1, WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.57 Safari/537.36;1377630688;

@@ -1,0 +1,17 @@
+21547;new_session;0;178.151.17.14;;http://www.iploy.co.uk/advice/index.php;Opera/9.80 (Windows NT 5.1, U, Edition Yx, ru) Presto/2.10.289 Version/12.02;1374721480;
+21548;new_session;0;91.236.74.121;action=artikel&cat=3&id=6&artlang=en;;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1, Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1) , .NET CLR 1.0.3705);1374725249;
+21549;article_view;6;91.236.74.121;action=artikel&cat=3&id=6&artlang=en;;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1, Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1) , .NET CLR 1.0.3705);1374725249;
+21550;new_session;0;88.198.227.103;action=artikel&cat=3&id=6&artlang=en;;Mozilla/5.0 (compatible, MSIE 8.0, Windows NT 5.1, Trident/4.0, InfoPath.2, SLCC1, .NET CLR 3.0.4506.2152, .NET CLR 3.5.30729, .NET CLR 2.0.50727);1374727171;
+21551;article_view;6;88.198.227.103;action=artikel&cat=3&id=6&artlang=en;;Mozilla/5.0 (compatible, MSIE 8.0, Windows NT 5.1, Trident/4.0, InfoPath.2, SLCC1, .NET CLR 3.0.4506.2152, .NET CLR 3.5.30729, .NET CLR 2.0.50727);1374727171;
+21552;new_session;0;88.198.227.103;action=artikel&cat=1&id=3&artlang=en;;Mozilla/5.0 (compatible, MSIE 8.0, Windows NT 5.1, Trident/4.0, InfoPath.2, SLCC1, .NET CLR 3.0.4506.2152, .NET CLR 3.5.30729, .NET CLR 2.0.50727);1374727171;
+21553;article_view;3;88.198.227.103;action=artikel&cat=1&id=3&artlang=en;;Mozilla/5.0 (compatible, MSIE 8.0, Windows NT 5.1, Trident/4.0, InfoPath.2, SLCC1, .NET CLR 3.0.4506.2152, .NET CLR 3.5.30729, .NET CLR 2.0.50727);1374727171;
+21554;new_session;0;88.198.227.103;;;Mozilla/5.0 (compatible, MSIE 8.0, Windows NT 5.1, Trident/4.0, InfoPath.2, SLCC1, .NET CLR 3.0.4506.2152, .NET CLR 3.5.30729, .NET CLR 2.0.50727);1374727172;
+21555;new_session;0;123.82.163.17;option=com_registration&task=register;http://www.iploy.co.uk/advice/index.php?option=com_registration&task=register;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1374739197;
+21556;old_session;21555;123.82.163.46;;http://www.iploy.co.uk/advice/;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1374739260;
+21557;old_session;21555;123.82.163.46;action=register;http://www.iploy.co.uk/advice/;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1374739261;
+21555;registration;0;123.82.163.46;action=register;http://www.iploy.co.uk/advice/;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1374739261;
+21558;old_session;21557;123.82.162.27;option=com_comprofiler;http://www.iploy.co.uk/advice/?action=register;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1374739283;
+21559;new_session;0;27.153.191.50;option=com_registration&task=register;http://www.iploy.co.uk/advice/index.php?option=com_registration&task=register;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1374741512;
+21559;registration;0;27.153.191.50;action=register;http://www.iploy.co.uk/advice/;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1374741514;
+21560;new_session;0;123.82.162.199;option=com_registration&task=register;http://www.iploy.co.uk/advice/index.php?option=com_registration&task=register;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1374770295;
+21560;registration;0;123.82.162.199;action=register;http://www.iploy.co.uk/advice/;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1374770297;

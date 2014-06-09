@@ -1,0 +1,17 @@
+24240;new_session;0;80.96.224.52;;;Java/1.7.0_40;1379327220;
+24241;new_session;0;80.96.224.52;action=artikel&cat=1&id=2&artlang=en;;Java/1.7.0_40;1379327249;
+24242;article_view;2;80.96.224.52;action=artikel&cat=1&id=2&artlang=en;;Java/1.7.0_40;1379327249;
+24243;new_session;0;120.43.6.205;action=artikel&cat=2&id=5&artlang=en;http://www.iploy.co.uk/advice/index.php?action=artikel&cat=2&id=5&artlang=en;Mozilla/5.0 (Windows NT 6.1, rv:17.0) Gecko/17.0 Firefox/17.0;1379328627;
+24244;article_view;5;120.43.6.205;action=artikel&cat=2&id=5&artlang=en;http://www.iploy.co.uk/advice/index.php?action=artikel&cat=2&id=5&artlang=en;Mozilla/5.0 (Windows NT 6.1, rv:17.0) Gecko/17.0 Firefox/17.0;1379328627;
+24245;new_session;0;117.26.117.223;;http://www.iploy.co.uk/advice/index.php;Mozilla/5.0 (Windows NT 6.1, WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1;1379331420;
+24246;new_session;0;54.228.8.130;action=artikel&cat=3&id=7&artlang=en;http://www.iploy.co.uk/;Mozilla/5.0 (compatible, heritrix/3.1.1 +http://www.duedil.com/);1379347411;
+24247;article_view;7;54.228.8.130;action=artikel&cat=3&id=7&artlang=en;http://www.iploy.co.uk/;Mozilla/5.0 (compatible, heritrix/3.1.1 +http://www.duedil.com/);1379347411;
+24246;article_view;9;54.228.8.130;action=artikel&cat=3&id=9&artlang=en;http://www.iploy.co.uk/;Mozilla/5.0 (compatible, heritrix/3.1.1 +http://www.duedil.com/);1379347421;
+24246;article_view;3;54.228.8.130;action=artikel&cat=1&id=3&artlang=en;http://www.iploy.co.uk/;Mozilla/5.0 (compatible, heritrix/3.1.1 +http://www.duedil.com/);1379347427;
+24246;article_view;10;54.228.8.130;action=artikel&cat=4&id=10&artlang=en;http://www.iploy.co.uk/;Mozilla/5.0 (compatible, heritrix/3.1.1 +http://www.duedil.com/);1379347442;
+24246;article_view;8;54.228.8.130;action=artikel&cat=3&id=8&artlang=en;http://www.iploy.co.uk/;Mozilla/5.0 (compatible, heritrix/3.1.1 +http://www.duedil.com/);1379347475;
+24246;article_view;5;54.228.8.130;action=artikel&cat=2&id=5&artlang=en;http://www.iploy.co.uk/;Mozilla/5.0 (compatible, heritrix/3.1.1 +http://www.duedil.com/);1379347484;
+24246;article_view;2;54.228.8.130;action=artikel&cat=1&id=2&artlang=en;http://www.iploy.co.uk/;Mozilla/5.0 (compatible, heritrix/3.1.1 +http://www.duedil.com/);1379347492;
+24246;article_view;4;54.228.8.130;action=artikel&cat=1&id=4&artlang=en;http://www.iploy.co.uk/;Mozilla/5.0 (compatible, heritrix/3.1.1 +http://www.duedil.com/);1379347493;
+24246;article_view;11;54.228.8.130;action=artikel&cat=4&id=11&artlang=en;http://www.iploy.co.uk/;Mozilla/5.0 (compatible, heritrix/3.1.1 +http://www.duedil.com/);1379347496;
+24246;article_view;6;54.228.8.130;action=artikel&cat=3&id=6&artlang=en;http://www.iploy.co.uk/;Mozilla/5.0 (compatible, heritrix/3.1.1 +http://www.duedil.com/);1379347508;

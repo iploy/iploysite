@@ -1,0 +1,10 @@
+21115;new_session;0;173.227.230.232;action=artikel&cat=4&id=11&artlang=en;http://www.iploy.co.uk;Mozilla/5.0 (Windows, U, Windows NT 5.1, en-US, rv:1.9.2.8) Gecko/20100721 Firefox/3.6.8;1373326703;
+21116;article_view;11;173.227.230.232;action=artikel&cat=4&id=11&artlang=en;http://www.iploy.co.uk;Mozilla/5.0 (Windows, U, Windows NT 5.1, en-US, rv:1.9.2.8) Gecko/20100721 Firefox/3.6.8;1373326703;
+21117;new_session;0;219.143.145.203;action=artikel&cat=2&id=5&artlang=en'%20and%20char(124)%2Buser%2Bchar(124)=0%20and%20''=';;Internet Explorer 6.0;1373374421;
+21118;article_view;5;219.143.145.203;action=artikel&cat=2&id=5&artlang=en'%20and%20char(124)%2Buser%2Bchar(124)=0%20and%20''=';;Internet Explorer 6.0;1373374421;
+21117;article_view;5;219.143.145.203;action=artikel&cat=2&id=5&artlang=en%20and%20char(124)%2Buser%2Bchar(124)=0;;Internet Explorer 6.0;1373374433;
+21117;article_view;5;219.143.145.203;action=artikel&cat=2&id=5&artlang=en'%20and%20char(124)%2Buser%2Bchar(124)=0%20and%20'%25'=';;Internet Explorer 6.0;1373374440;
+21117;article_view;5;219.143.145.203;action=artikel&cat=2&id=5&artlang=en%20%61%6E%64%20%31%3D%31;;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.0);1373374469;
+21117;article_view;5;219.143.145.203;action=artikel&cat=2&id=5&artlang=en%20%61%6E%64%20%31%3D%32;;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.0);1373374478;
+21117;article_view;5;219.143.145.203;action=artikel&cat=2&id=5&artlang=en'%20and%201=1%20and%20''=';;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.0);1373374492;
+21117;article_view;5;219.143.145.203;action=artikel&cat=2&id=5&artlang=en'%20and%201=2%20and%20''=';;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.0);1373374531;

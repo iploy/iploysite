@@ -1,0 +1,16 @@
+23491;new_session;0;27.153.191.50;option=com_registration&task=register;http://www.iploy.co.uk/advice/index.php?option=com_registration&task=register;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1377394096;
+23492;old_session;23491;110.82.172.50;;http://www.iploy.co.uk/advice/;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1377394104;
+23493;old_session;23491;110.82.172.50;action=register;http://www.iploy.co.uk/advice/;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1377394106;
+23491;registration;0;110.82.172.50;action=register;http://www.iploy.co.uk/advice/;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1377394106;
+23494;new_session;0;61.135.190.104;action=artikel&cat=3&id=6&artlang=en;http://www.baidu.com/s?wd=iPloyEmploymentAdvice-Howtoanswerthemostcommonquestionsatjobinterviews.;Mozilla/5.0 (Windows, U, Windows NT 5.1, zh-CN, rv:1.9.2.15) Gecko/20110303 Firefox/3.6.15;1377396938;
+23495;article_view;6;61.135.190.104;action=artikel&cat=3&id=6&artlang=en;http://www.baidu.com/s?wd=iPloyEmploymentAdvice-Howtoanswerthemostcommonquestionsatjobinterviews.;Mozilla/5.0 (Windows, U, Windows NT 5.1, zh-CN, rv:1.9.2.15) Gecko/20110303 Firefox/3.6.15;1377396938;
+23496;new_session;0;27.153.191.50;option=com_registration&task=register;http://www.iploy.co.uk/advice/index.php?option=com_registration&task=register;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1377397343;
+23497;old_session;23496;110.82.172.50;action=register;http://www.iploy.co.uk/advice/;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1377397345;
+23496;registration;0;110.82.172.50;action=register;http://www.iploy.co.uk/advice/;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1377397345;
+23498;new_session;0;110.82.172.50;option=com_registration&task=register;http://www.iploy.co.uk/advice/index.php?option=com_registration&task=register;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1377401173;
+23498;registration;0;110.82.172.50;action=register;http://www.iploy.co.uk/advice/;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1377401174;
+23499;new_session;0;27.153.191.50;option=com_registration&task=register;http://www.iploy.co.uk/advice/index.php?option=com_registration&task=register;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1377426636;
+23499;registration;0;27.153.191.50;action=register;http://www.iploy.co.uk/advice/;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1377426640;
+23500;old_session;23499;110.82.172.50;showCaptcha=True&instanceNo=0;http://www.iploy.co.uk/advice/?action=register;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1377426642;
+23501;new_session;0;91.236.75.92;action=artikel&cat=3&id=6&artlang=en;http://www.iploy.co.uk/advice/index.php?action=artikel&cat=3&id=6&artlang=en;Mozilla/5.0 (Macintosh, Intel Mac OS X 10_6_8) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2;1377445651;
+23502;article_view;6;91.236.75.92;action=artikel&cat=3&id=6&artlang=en;http://www.iploy.co.uk/advice/index.php?action=artikel&cat=3&id=6&artlang=en;Mozilla/5.0 (Macintosh, Intel Mac OS X 10_6_8) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2;1377445651;

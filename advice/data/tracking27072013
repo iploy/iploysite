@@ -1,0 +1,13 @@
+21592;new_session;0;110.86.178.172;option=com_registration&task=register;http://www.iploy.co.uk/advice/index.php?option=com_registration&task=register;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1374881173;
+21593;old_session;21592;220.161.151.222;action=register;http://www.iploy.co.uk/advice/;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1374881175;
+21592;registration;0;220.161.151.222;action=register;http://www.iploy.co.uk/advice/;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1374881175;
+21594;old_session;21593;110.86.178.172;showCaptcha=True&instanceNo=0;http://www.iploy.co.uk/advice/?action=register;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1374881177;
+21595;new_session;0;220.161.151.222;;;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1374890724;
+21596;new_session;0;178.151.17.14;;http://www.iploy.co.uk/advice/index.php;Mozilla/5.0 (Windows NT 6.1, WOW64) AppleWebKit/536.5 (KHTML, like Gecko) YaBrowser/1.1.1084.5409 Chrome/19.1.1084.5409 Safari/536.5;1374893368;
+21597;new_session;0;54.225.112.238;action=artikel&cat=4&id=11&artlang=en';;Python-urllib/2.7;1374924601;
+21598;article_view;11;54.225.112.238;action=artikel&cat=4&id=11&artlang=en';;Python-urllib/2.7;1374924601;
+21599;new_session;0;117.26.81.187;option=com_registration&task=register;http://www.iploy.co.uk/advice/index.php?option=com_registration&task=register;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1374941782;
+21599;registration;0;117.26.81.187;action=register;http://www.iploy.co.uk/advice/;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1374941793;
+21600;new_session;0;117.26.81.187;option=com_registration&task=register;http://www.iploy.co.uk/advice/index.php?option=com_registration&task=register;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1374944996;
+21600;registration;0;117.26.81.187;action=register;http://www.iploy.co.uk/advice/;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1374944997;
+21601;old_session;21600;27.153.191.50;option=com_comprofiler;http://www.iploy.co.uk/advice/?action=register;Mozilla/4.0 (compatible, MSIE 6.0, Windows NT 5.1, SV1,);1374945002;
